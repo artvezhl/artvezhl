@@ -23,6 +23,7 @@
 </div>
 
 ---
+
 ### :man_technologist: About Me :
 - 🔭: I’m looking for a Frontend developer job.
 
@@ -33,6 +34,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-artvezhl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vezhl/) [![Telegram Badge](https://img.shields.io/badge/-sintaxis86-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sintaxis86)
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -46,3 +48,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artvezhl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artvezhl&theme=dark&background=000000)](https://git.io/streak-stats)
