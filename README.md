@@ -1,18 +1,23 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Привет, меня зовут Артемий
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend developer from Russia 🇷🇺</h3>
+<h3 align="center">Junior Frontend developer from Moscow, Russia</h3>
 
-<!--
-**artvezhl/artvezhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vezhl/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://career.habr.com/vezhl">
+    <img src="https://img.shields.io/badge/Habr-grey?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Headhunter-red?style=for-the-badge&logo=hhr&logoColor=white" alt="Headhunter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=artvezhl&style=flat-square&color=blue" alt="views"/>
+</div>
