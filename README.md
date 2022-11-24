@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there, my name is Artemiy
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Frontend developer from Moscow, Russia</h3>
+<h3 align="center">Frontend developer</h3>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vezhl/">
