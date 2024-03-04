@@ -25,9 +25,9 @@
 ---
 
 ### :man_technologist: About Me :
-- 🔭: I’m looking for a Frontend developer job.
+- 🔭: I’m looking for a FullStack JS developer job.
 
-- 👨‍🎓: I have 1,5 years learning and working experience in JS.
+- 👨‍🎓: I have moore than 2,5 years working experience in JS.
 
 - ⚡: In my free time, I solve problems on CodeWars and read tech books.
 
